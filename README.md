@@ -1,1 +1,1 @@
-` EBOOK listing page 
+` MVP 0 of EBOOK listing page project
